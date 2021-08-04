@@ -9,11 +9,18 @@
 <br />
 
 ## Liguagens:
-
 <br/>
-<img src="images/python-original.svg" alt="python" width="50"/>
-<img src="images/java-original.svg" alt="python" width="50"/>
-<img src="images/cplusplus-original.svg" alt="python" width="50"/>
+<div display="table">
+  <div float="left" width="33.33%" padding="5px">
+    <img src="images/python-original.svg" alt="Snow" style="width:10%">
+  </div>
+  <div float="left" width="33.33%" padding="5px">
+    <img src="images/java-original.svg" alt="Forest" style="width:10%">
+  </div>
+  <div float="left" width="33.33%" padding="5px">
+    <img src="images/cplusplus-original.svg" alt="Mountains" style="width:10%">
+  </div>
+</div>
 <br />
 ---
 

@@ -10,9 +10,10 @@
 
 ## Liguagens:
 <br/>
-![python](images/python-original.png)
-![java](images/java-original.png)
-![cplus](images/cplusplus-original.png)
+<img align="left" src="images/python-original.svg" alt="python" width="50"/>
+<img align="left" src="images/java-original.svg" alt="java" width="50"/>
+<img align="left" src="images/cplusplus-original.svg" alt="cplus" width="50"/>
+<br />
 <br />
 ---
 

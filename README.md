@@ -10,9 +10,15 @@
 
 ## Liguagens:
 <br/>
+<span>
 <img align="justify" src="images/python-original.svg" alt="python" width="50"/>
+</span>
+<span>
 <img align="justify" src="images/java-original.svg" alt="java" width="50"/>
+</span>
+<span>
 <img align="justify" src="images/cplusplus-original.svg" alt="cplus" width="50"/>
+</span>
 <br />
 <br />
 

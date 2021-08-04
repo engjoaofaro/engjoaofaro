@@ -9,10 +9,11 @@
 <br />
 
 ## Liguagens:
+
 <br/>
-<img src="images/python-original.svg" alt="python" width="100"/>
-<img src="images/java-original.svg" alt="python" width="100"/>
-<img src="images/cplusplus-original.svg" alt="python" width="100"/>
+<img src="images/python-original.svg" alt="python" width="50"/>
+<img src="images/java-original.svg" alt="python" width="50"/>
+<img src="images/cplusplus-original.svg" alt="python" width="50"/>
 <br />
 ---
 

@@ -4,7 +4,7 @@
 
 ## Sou Engenheiro, músico e gamer
 
-- 🌱 Estou sempre querendo aprender algo diferente 🤣
+- 🌱 Sempre em busca de conhecimento
 
 <br />
 

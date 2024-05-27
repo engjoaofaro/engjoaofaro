@@ -21,6 +21,9 @@
 <span>
 <img align="justify" src="images/cplusplus-original.svg" alt="cplus" width="50"/>
 </span>
+<span>
+<img align="justify" src="images/jupyter.svg" alt="cplus" width="50"/>
+</span>
 <br />
 <br />
 

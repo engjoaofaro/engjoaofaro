@@ -1,7 +1,8 @@
 ### Olá me chamo João Faro - [ENGJOAOFARO][website] 👋
 [![Website](https://img.shields.io/website?label=joaofaro.eng.br&style=for-the-badge&url=https%3A%2F%2Fjoaofaro.eng.br)](https://joaofaro.eng.br)
 
-[![Threads Follow](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://threads.com/joaobremgartner)
+![Threads Follow](https://img.shields.io/twitter/follow/joaobremgartner
+)
 
 
 ## Sou Engenheiro, músico e gamer

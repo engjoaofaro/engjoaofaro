@@ -35,14 +35,6 @@ Sou um **Engenheiro** apaixonado por tecnologia, **músico** nas horas vagas e *
 
 </div>
 
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=engjoaofaro&theme=tokyonight&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -67,14 +59,14 @@ Sou um **Engenheiro** apaixonado por tecnologia, **músico** nas horas vagas e *
 
 ## 🌟 Projetos em Destaque
 
-<!-- Adicione seus projetos principais aqui -->
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=netflix_case_datacamp&theme=tokyonight)](https://github.com/engjoaofaro/netflix_case_datacamp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=task-manager&theme=tokyonight)](https://github.com/engjoaofaro/task-manager)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=irrigation-service-mqtt&theme=tokyonight)](https://github.com/engjoaofaro/irrigation-service-mqtt)
-  
-  
+
+| Repositório | Linguagem | Stars |
+|-------------|-----------|-------|
+| [📊 netflix_case_datacamp](https://github.com/engjoaofaro/netflix_case_datacamp) | ![Python](https://img.shields.io/github/languages/top/engjoaofaro/netflix_case_datacamp?style=flat-square&label=) | ![Stars](https://img.shields.io/github/stars/engjoaofaro/netflix_case_datacamp?style=flat-square) |
+| [✅ task-manager](https://github.com/engjoaofaro/task-manager) | ![Lang](https://img.shields.io/github/languages/top/engjoaofaro/task-manager?style=flat-square&label=) | ![Stars](https://img.shields.io/github/stars/engjoaofaro/task-manager?style=flat-square) |
+| [🌱 irrigation-service-mqtt](https://github.com/engjoaofaro/irrigation-service-mqtt) | ![Lang](https://img.shields.io/github/languages/top/engjoaofaro/irrigation-service-mqtt?style=flat-square&label=) | ![Stars](https://img.shields.io/github/stars/engjoaofaro/irrigation-service-mqtt?style=flat-square) |
+
 </div>
 
 ## 🐍 Contribuições

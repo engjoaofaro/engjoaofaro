@@ -35,6 +35,14 @@ Sou um **Engenheiro** apaixonado por tecnologia, **músico** nas horas vagas e *
 
 </div>
 
+## 🏆 Troféus
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=engjoaofaro&theme=tokyonight&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -62,11 +70,23 @@ Sou um **Engenheiro** apaixonado por tecnologia, **músico** nas horas vagas e *
 <!-- Adicione seus projetos principais aqui -->
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=netflix_case_datacamp&theme=tokyonight)]([https://github.com/engjoaofaro/projeto1](https://github.com/engjoaofaro/netflix_case_datacamp))
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=task-manager&theme=tokyonight)]([https://github.com/engjoaofaro/projeto2](https://github.com/engjoaofaro/task-manager))
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=irrigation-service-mqtt&theme=tokyonight)]([https://github.com/engjoaofaro/projeto2](https://github.com/engjoaofaro/task-manager)](https://github.com/engjoaofaro/irrigation-service-mqtt))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=netflix_case_datacamp&theme=tokyonight)](https://github.com/engjoaofaro/netflix_case_datacamp)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=task-manager&theme=tokyonight)](https://github.com/engjoaofaro/task-manager)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engjoaofaro&repo=irrigation-service-mqtt&theme=tokyonight)](https://github.com/engjoaofaro/irrigation-service-mqtt)
   
   
+</div>
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engjoaofaro/engjoaofaro/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engjoaofaro/engjoaofaro/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/engjoaofaro/engjoaofaro/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ## 📫 Vamos conectar?
@@ -75,7 +95,7 @@ Sou um **Engenheiro** apaixonado por tecnologia, **músico** nas horas vagas e *
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaobremgartner)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaobremgartner@pm.me)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-discord)
+  <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SEU_SERVIDOR) -->
   
 </div>
 

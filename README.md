@@ -60,6 +60,21 @@ Sou um **Engenheiro** apaixonado por tecnologia, **músico** nas horas vagas e *
 ## 🌟 Projetos em Destaque
 
 <div align="center">
+  <a href="https://github.com/engjoaofaro/loterias-sim-web">
+    <img src="images/loterias-logo.png" height="100" alt="Loterias"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/engjoaofaro/beautyops">
+    <img src="images/beautyops-logo.png" height="100" alt="BeautyOps"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/engjoaofaro/iracing-tmp">
+    <img src="images/iracing-logo.png" height="100" alt="iRacing TMP"/>
+  </a>
+</div>
+<br/>
+
+<div align="center">
 
 | Repositório | Linguagem | Stars |
 |-------------|-----------|-------|

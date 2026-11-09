@@ -18,7 +18,7 @@ Sou **Engenheiro de Computação**, **programador sênior** e **tech lead**. Con
 
 - 💼 Lidero times técnicos e cuido da arquitetura, do código e da entrega
 - ☁️ Gosto de arquiteturas orientadas a eventos na AWS (Lambda, Step Functions, SQS, DynamoDB)
-- 📊 Pós-graduação em Ciência de Dados e Machine Learning (PUC-Campinas)
+- 📊 Pós-graduado em Ciência de Dados e Machine Learning (PUC-Campinas)
 - 🔌 Também me divirto com IoT: ESP32, Arduino e MQTT
 
 Fora do código, toco guitarra 🎸, jogo RPGs e jogos de estratégia 🎮, corro no iRacing 🏎️ e treino para manter corpo e mente em dia 🏃‍♂️.

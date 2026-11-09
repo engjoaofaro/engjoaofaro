@@ -18,7 +18,7 @@ I'm a **Computer Engineer**, **senior developer** and **tech lead**. I build Saa
 
 - 💼 I lead engineering teams and own architecture, code and delivery
 - ☁️ I enjoy event-driven architectures on AWS (Lambda, Step Functions, SQS, DynamoDB)
-- 📊 Postgraduate studies in Data Science and Machine Learning (PUC-Campinas)
+- 📊 Postgraduate degree in Data Science and Machine Learning (PUC-Campinas)
 - 🔌 I also tinker with IoT: ESP32, Arduino and MQTT
 
 Away from code, I play guitar 🎸, enjoy RPGs and strategy games 🎮, race on iRacing 🏎️ and work out to keep body and mind in shape 🏃‍♂️.

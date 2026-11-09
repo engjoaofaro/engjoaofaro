@@ -1,9 +1,14 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - ".github/scripts/profile_stats.py"
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -14,6 +19,8 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09  # v5.1.0
+
       - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b  # v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -21,7 +28,24 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      # Stats and languages cards, built here so the profile does not depend
+      # on a third-party server. If generation fails, keep yesterday's cards:
+      # the publish step below replaces the whole output branch.
+      - name: Generate stats cards
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          OWNER: ${{ github.repository_owner }}
+          REPO: ${{ github.repository }}
+        run: |
+          if ! python3 .github/scripts/profile_stats.py "$OWNER" dist; then
+            echo "::warning::Stats generation failed; keeping the previous cards"
+            for lang in pt en; do for theme in dark light; do for card in stats langs; do
+              f="$card-$lang-$theme.svg"
+              curl -fsSL -o "dist/$f" "https://raw.githubusercontent.com/$REPO/output/$f" || rm -f "dist/$f"
+            done; done; done
+          fi
+
+      - name: Push assets to output branch
         uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd  # v3.1.0
         with:
           target_branch: output

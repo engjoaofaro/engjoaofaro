@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Engenheiro+%F0%9F%8E%AF;M%C3%BAsico+%F0%9F%8E%B5;Gamer+%F0%9F%8E%AE;Sempre+aprendendo+%F0%9F%9A%80)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Engenheiro+%F0%9F%8E%AF;M%C3%BAsico+%F0%9F%8E%B5;Gamer+%F0%9F%8E%AE;Sempre+aprendendo+%F0%9F%9A%80)
   
 </div>
 
@@ -39,14 +39,7 @@ Sou um **Engenheiro** apaixonado por tecnologia, **músico** nas horas vagas e *
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engjoaofaro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engjoaofaro&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=engjoaofaro&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=engjoaofaro&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
 </div>
 

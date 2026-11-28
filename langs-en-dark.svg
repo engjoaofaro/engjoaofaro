@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-label="Most Used Languages">
+<rect x="0.5" y="0.5" width="419" height="199" rx="8" fill="#1a1b27" stroke="#2a2e42"/>
+<text x="24" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="600" fill="#00d9ff">Most Used Languages</text>
+<clipPath id="bar"><rect x="24" y="58" width="372" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)"><rect x="24" y="58" width="372" height="8" fill="#2a2e42"/>
+<rect x="24.00" y="58" width="108.74" height="8" fill="#3572A5"/>
+<rect x="132.74" y="58" width="101.18" height="8" fill="#f1e05a"/>
+<rect x="233.92" y="58" width="86.85" height="8" fill="#b07219"/>
+<rect x="320.76" y="58" width="39.48" height="8" fill="#663399"/>
+<rect x="360.24" y="58" width="25.54" height="8" fill="#e34c26"/>
+<rect x="385.78" y="58" width="6.65" height="8" fill="#f34b7d"/>
+<rect x="392.43" y="58" width="3.57" height="8" fill="#89e051"/>
+</g>
+<circle cx="29.0" cy="94" r="5" fill="#3572A5"/>
+<text x="40.0" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#a9b1d6">Python <tspan fill="#ffffff" font-weight="600">29.2%</tspan></text>
+<circle cx="215.0" cy="94" r="5" fill="#f1e05a"/>
+<text x="226.0" y="98" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#a9b1d6">JavaScript <tspan fill="#ffffff" font-weight="600">27.2%</tspan></text>
+<circle cx="29.0" cy="120" r="5" fill="#b07219"/>
+<text x="40.0" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#a9b1d6">Java <tspan fill="#ffffff" font-weight="600">23.3%</tspan></text>
+<circle cx="215.0" cy="120" r="5" fill="#663399"/>
+<text x="226.0" y="124" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#a9b1d6">CSS <tspan fill="#ffffff" font-weight="600">10.6%</tspan></text>
+<circle cx="29.0" cy="146" r="5" fill="#e34c26"/>
+<text x="40.0" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#a9b1d6">HTML <tspan fill="#ffffff" font-weight="600">6.9%</tspan></text>
+<circle cx="215.0" cy="146" r="5" fill="#f34b7d"/>
+<text x="226.0" y="150" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#a9b1d6">C++ <tspan fill="#ffffff" font-weight="600">1.8%</tspan></text>
+<circle cx="29.0" cy="172" r="5" fill="#89e051"/>
+<text x="40.0" y="176" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#a9b1d6">Shell <tspan fill="#ffffff" font-weight="600">1.0%</tspan></text>
+</svg>
